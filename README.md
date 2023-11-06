@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Ozan EŞKİ</h1>
+<h1 align="center">Heyo 👋</h1>
 <h3 align="center">I am a Unity Developer. I have previously worked in both game and simulation projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozaneski13&label=Profile%20views&color=0e75b6&style=flat" alt="ozaneski13" /> </p>
@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **ozaneski13@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ozan-e%C5%9Fki-2b804a13b/](https://www.linkedin.com/in/ozan-e%C5%9Fki-2b804a13b/)
+- Active Unity Issues
+  - [Depth of Field Bug](https://issuetracker.unity3d.com/issues/hdrp-setting-quality-setting-to-custom-through-code-should-be-less-painful)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
