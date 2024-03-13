@@ -1,5 +1,5 @@
 <h1 align="center">Heyo 👋</h1>
-<h3 align="center">I am a Unity Developer. I have previously worked in both game and simulation projects.</h3>
+<h3 align="center">I am a Unity Developer. I have worked on both game and simulation projects before.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozaneski13&label=Profile%20views&color=0e75b6&style=flat" alt="ozaneski13" /> </p>
 
