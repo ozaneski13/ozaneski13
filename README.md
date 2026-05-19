@@ -6,7 +6,7 @@
 - 💬 Ask me about **Unity3D and Unity C#.**
 
 - 📫 How to reach me **ozaneski13@gmail.com**
-- 📫 Website [Website](https://www.ozaneski.com)
+- 📫 [Website](https://www.ozaneski.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
