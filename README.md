@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently building **DominiumChess** — a Unity 6 / URP chess-meets-deckbuilding tactics game with a deterministic pure-C# engine and a 3-tier learning AI
 
-- 🎵 …and **Absolute Musician** — a musician-themed idle/tapper (Unity) with AI song generation
-
 - 🛠️ I also maintain [BDO Craft Helper](https://www.bdocraftinglab.com) — a cooking/alchemy recipe advisor for Black Desert Online
 
 - 💬 Ask me about **Unity3D and Unity C#.**
